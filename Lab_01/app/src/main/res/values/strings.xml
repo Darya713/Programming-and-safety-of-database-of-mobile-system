@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab_01</string>
+    <string name="absolute">Absolute:</string>
+    <string name="name">Name:</string>
+    <string name="path">Path:</string>
+    <string name="read_write">Read/Write:</string>
+    <string name="external">External:</string>
+    <string name="getFilesDir">1. GetFilesDir</string>
+    <string name="getCacheDir">2. GetCacheDir</string>
+    <string name="getExternalFilesDir">3. GetExternalFilesDir</string>
+    <string name="getExternalCacheDir">4. GetExternalCacheDir</string>
+    <string name="getExternalStorageDirectory">5. GetExternalStorageDirectory</string>
+    <string name="getExternalStoragePublicDirectory">6. GetExternalStoragePublicDirectory</string>
+</resources>
