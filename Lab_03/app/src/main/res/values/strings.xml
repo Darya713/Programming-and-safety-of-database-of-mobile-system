@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab_03</string>
+    <string name="key">Ключ</string>
+    <string name="value">Значение</string>
+    <string name="save">Сохранить</string>
+    <string name="getValue">Получить значение</string>
+    <string name="newWindow">Новое окно</string>
+</resources>
